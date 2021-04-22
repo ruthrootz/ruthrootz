@@ -29,3 +29,4 @@ Visit [my portfolio](https://rutholdja.netlify.app/)!
 [![MDC world map](https://github-readme-stats.vercel.app/api/pin/?username=ruthrootz&repo=mdc-world-map)](https://github.com/ruthrootz/mdc-world-map)
 [![carpe diem list](https://github-readme-stats.vercel.app/api/pin/?username=ruthrootz&repo=carpe-diem-list)](https://github.com/ruthrootz/carpe-diem-list)
 [![avocado data science](https://github-readme-stats.vercel.app/api/pin/?username=ruthrootz&repo=avocado-data-science)](https://github.com/ruthrootz/avocado-data-science)
+[![learn vim](https://github-readme-stats.vercel.app/api/pin/?username=ruthrootz&repo=learn-vim)](https://github.com/ruthrootz/learn-vim)

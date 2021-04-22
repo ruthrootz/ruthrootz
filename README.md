@@ -16,3 +16,4 @@ I'm a junior applications developer at [Foundation Software](https://www.foundat
 
 ### github stats
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=ruthrootz&count_private=true&theme=slateorange&show_icons=true)](https://github.com/ruthrootz)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)

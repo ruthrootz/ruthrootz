@@ -1,4 +1,4 @@
-I'm a junior applications developer at [Foundation Software]() in Cleveland, OH 🌆
+I'm a junior applications developer at [Foundation Software](https://www.foundationsoft.com/) in Cleveland, OH 🌆
 <br />
 <br />
 
@@ -6,11 +6,11 @@ Visit [my portfolio](https://rutholdja.netlify.app/)!
 <br />
 <br />
 
-🔭 I’m learning how to [analyze data with Python](Kaggle).
+🔭 I’m learning how to [analyze data with Python](https://www.kaggle.com/ruthrootz).
 
-🎴 I've recently started playing [Magic the Gathering]().
+🎴 I've recently started playing [Magic the Gathering](https://magic.wizards.com/en).
 
-💬 Ask me about [Vue]() and [.NET]().
+💬 Ask me about [Vue](https://vuejs.org/) and [.NET](https://dotnet.microsoft.com/).
 
 ❤ I love reading and running.
 

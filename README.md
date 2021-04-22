@@ -14,6 +14,14 @@ I'm a junior applications developer at [Foundation Software](https://www.foundat
 <br />
 <br />
 
+### my gitHub contributions as a Game of Life
+
+[![GitHub Game of Life](https://github4life.herokuapp.com/ruthrootz.gif?z=6)](https://github4life.herokuapp.com/ruthrootz)
+
+(Thanks to [this guy's awesome project!](https://github.com/ethomson/github4life))
+<br />
+<br />
+
 ### github stats
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=ruthrootz&count_private=true&theme=slateorange&show_icons=true)](https://github.com/ruthrootz)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)

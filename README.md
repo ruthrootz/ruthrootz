@@ -14,7 +14,7 @@ I'm a junior applications developer at [Foundation Software](https://www.foundat
 <br />
 <br />
 
-### my gitHub contributions as a Game of Life (thanks to [this guy's awesome project](https://github.com/ethomson/github4life))
+### my github contributions as a Game of Life (thanks to [this guy's awesome project](https://github.com/ethomson/github4life))
 
 [![GitHub Game of Life](https://github4life.herokuapp.com/ruthrootz.gif?z=6)](https://github4life.herokuapp.com/ruthrootz)
 <br />

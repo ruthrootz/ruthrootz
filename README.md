@@ -4,7 +4,7 @@ I'm a junior applications developer at [Foundation Software](https://www.foundat
 
 🔭 I’m learning how to [analyze data with Python](https://www.kaggle.com/ruthrootz).
 
-🎴 I've recently started playing [Magic the Gathering](https://magic.wizards.com/en).
+🎴 I've recently started playing [Magic the Gathering](https://magic.wizards.com/en). (My [current main deck](https://www.topdecked.com/decks/izzet/691bae01-8137-474c-bdee-a8941abc21d3).)
 
 💬 Ask me about [Vue](https://vuejs.org/) and [.NET](https://dotnet.microsoft.com/).
 

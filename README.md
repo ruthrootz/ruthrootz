@@ -21,5 +21,5 @@ I'm a junior applications developer at [Foundation Software](https://www.foundat
 <br />
 
 ### github stats
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=ruthrootz&count_private=true&theme=slateorange&show_icons=true)](https://github.com/ruthrootz)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruthrootz&layout=compact&theme=slateorange)](https://github.com/ruthrootz/github-readme-stats)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=ruthrootz&count_private=true&theme=github_dark&show_icons=true)](https://github.com/ruthrootz)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruthrootz&layout=compact&theme=github_dark)](https://github.com/ruthrootz/github-readme-stats)

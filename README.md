@@ -2,7 +2,7 @@ I'm a junior applications developer at [Foundation Software](https://www.foundat
 <br />
 <br />
 
-🔭 I’m learning how to [analyze data with Python](https://www.kaggle.com/ruthrootz).
+🔭 I’m learning how to [analyze data with Python](https://www.kaggle.com/ruthrootz) and do [algorithmic stock trading](https://www.quantconnect.com/u/ruth-oldja).
 
 🎴 I've recently started playing [Magic the Gathering](https://magic.wizards.com/en). (My [current main deck](https://www.topdecked.com/decks/izzet/691bae01-8137-474c-bdee-a8941abc21d3).)
 
@@ -10,7 +10,7 @@ I'm a junior applications developer at [Foundation Software](https://www.foundat
 
 ❤ I love [reading](https://www.goodreads.com/user/show/72249220-ruth) and [running](https://www.strava.com/athletes/roldja).
 
-🐕 I have a white Pomsky named [Lyra](https://photos.app.goo.gl/4PWwSSQrBbdUwKi86).
+🐕 I have a pet Pomsky named [Lyra](https://photos.app.goo.gl/4PWwSSQrBbdUwKi86).
 <br />
 <br />
 

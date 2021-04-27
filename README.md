@@ -8,7 +8,7 @@ I'm a junior applications developer at [Foundation Software](https://www.foundat
 
 💬 Ask me about [Vue](https://vuejs.org/) and [.NET](https://dotnet.microsoft.com/).
 
-❤ I love reading and running.
+❤ I love [reading](https://www.goodreads.com/user/show/72249220-ruth) and [running](https://www.strava.com/athletes/roldja).
 
 🐕 I have a white Pomsky named [Lyra](https://photos.app.goo.gl/4PWwSSQrBbdUwKi86).
 <br />

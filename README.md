@@ -10,7 +10,7 @@ I'm a junior applications developer at [Foundation Software](https://www.foundat
 
 ❤ I love reading and running.
 
-🐕 I have a white Pomsky named Lyra.
+🐕 I have a white Pomsky named [Lyra](https://photos.app.goo.gl/4PWwSSQrBbdUwKi86).
 <br />
 <br />
 

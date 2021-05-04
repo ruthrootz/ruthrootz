@@ -2,7 +2,7 @@ I'm a junior applications developer at [Foundation Software](https://www.foundat
 <br />
 <br />
 
-🔭 I’m learning how to [analyze data with Python](https://www.kaggle.com/ruthrootz) and do [quantitative trading](https://www.quantconnect.com/u/ruth-o).
+🔭 I’m learning how to [analyze data](https://www.kaggle.com/ruthrootz) and do [quantitative trading](https://www.quantconnect.com/u/ruth-o) with Python.
 
 🎴 I've recently started playing [Magic the Gathering](https://magic.wizards.com/en). (My [current main deck](https://www.topdecked.com/decks/izzet/691bae01-8137-474c-bdee-a8941abc21d3).)
 

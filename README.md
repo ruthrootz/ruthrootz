@@ -9,7 +9,7 @@
 
 ❤ I love [reading](https://www.goodreads.com/user/show/72249220-ruth) and [running](https://www.strava.com/athletes/roldja).
 
-🐕 I have a pet Pomsky named [Lyra](https://i.redd.it/ui7yd6c2wiu61.jpg).
+🐶 I have a pet Pomsky named [Lyra](https://i.redd.it/ui7yd6c2wiu61.jpg).
 <br />
 
 ### my github contributions as a Game of Life (thanks to [this guy's awesome project](https://github.com/ethomson/github4life))

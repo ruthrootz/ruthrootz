@@ -19,4 +19,4 @@
 [![GitHub Game of Life](https://github-life.herokuapp.com/ruthrootz.gif?z=6)](https://github-life.herokuapp.com/ruthrootz)
 <br />
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=ruthrootz&count_private=true&theme=github_dark&icon_color=ec362f&show_icons=true)](https://github.com/ruthrootz)
+<!-- [![github stats](https://github-readme-stats.vercel.app/api?username=ruthrootz&count_private=true&theme=github_dark&icon_color=ec362f&show_icons=true)](https://github.com/ruthrootz) -->

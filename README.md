@@ -1,4 +1,4 @@
-##### I'm a junior applications developer at [Foundation Software](https://www.foundationsoft.com/) in Cleveland, OH. Visit [my portfolio](https://rutholdja.netlify.app/)!
+# I'm a junior applications developer at [Foundation Software](https://www.foundationsoft.com/) in Cleveland, OH. Visit [my portfolio](https://rutholdja.netlify.app/)!
 <br />
 
 📈 I’m learning how to [analyze data](https://www.kaggle.com/ruthrootz) and [do quantitative trading](https://www.quantconnect.com/u/ruth-o) with Python.

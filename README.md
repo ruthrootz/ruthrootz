@@ -1,4 +1,4 @@
-### I'm a junior applications developer at [Foundation Software](https://www.foundationsoft.com/) in Cleveland, OH.
+### I'm a junior applications developer at [Foundation Software](https://www.foundationsoft.com/) near Cleveland, OH.
 ### Visit [my portfolio](https://rutholdja.netlify.app/)!
 <br />
 

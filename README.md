@@ -1,5 +1,4 @@
-### Visit [my portfolio](https://rutholdja.netlify.app/)!
-### I'm a junior applications developer at [Foundation Software](https://www.foundationsoft.com/) near Cleveland, OH.
+### Visit [my portfolio](https://rutholdja.netlify.app/)! I'm a junior applications developer at [Foundation Software](https://www.foundationsoft.com/) near Cleveland, OH.
 <br />
 
 ❤ I love [reading](https://www.goodreads.com/user/show/72249220-ruth) and [running](https://www.strava.com/athletes/roldja).

@@ -3,7 +3,7 @@
 
 ❤ I love [reading](https://www.goodreads.com/user/show/72249220-ruth) and [running](https://www.strava.com/athletes/roldja).
 
-🐶 I have a pet pomsky named [Lyra](https://i.redd.it/fbmhfkad8s771.jpg).
+🐶 I have a pet pomsky named [Lyra](https://i.redd.it/rr1rc68jd8971.jpg).
 
 💡 See what I'm [working on right now](https://github.com/users/ruthrootz/projects/1).
 

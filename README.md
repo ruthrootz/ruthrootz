@@ -5,9 +5,9 @@
 
 🐶 I have a pet pomsky named [Lyra](https://i.redd.it/rr1rc68jd8971.jpg).
 
-💡 Ask me about [VueJS](https://vuejs.org/), [Bootstrap](https://getbootstrap.com/) and [.NET](https://dotnet.microsoft.com/).
-
 🎴 I've recently started playing [Magic the Gathering](https://magic.wizards.com/en).
+
+💡 Ask me about [VueJS](https://vuejs.org/) + [TypeScript](https://www.typescriptlang.org/), [Bootstrap](https://getbootstrap.com/) and [.NET](https://dotnet.microsoft.com/).
 
 📈 I’m learning how to [analyze data](https://www.kaggle.com/ruthrootz) and [do quantitative trading](https://www.quantconnect.com/u/ruth-o) with Python.
 

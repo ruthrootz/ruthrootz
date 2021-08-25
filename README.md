@@ -9,7 +9,7 @@
 
 💡 Ask me about [VueJS](https://vuejs.org/) + [TypeScript](https://www.typescriptlang.org/), [Bootstrap](https://getbootstrap.com/) and [.NET](https://dotnet.microsoft.com/).
 
-📈 I’m learning how to [analyze data](https://www.kaggle.com/ruthrootz) and [do quantitative trading](https://www.quantconnect.com/u/ruth-o) with Python.
+📈 I’m studying for [Azure certifications](https://docs.microsoft.com/en-us/learn/certifications/browse/).
 
 <br />
 

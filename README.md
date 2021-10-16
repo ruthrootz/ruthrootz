@@ -19,9 +19,7 @@
 
 <br />
 
-### my github contributions as a Game of Life (thanks to [this guy's awesome project](https://github.com/ethomson/github4life))
-
-(see my [dark mode version of this project](https://github.com/ruthrootz/github4life))
+### my github contributions as a Game of Life (froked from [this guy's awesome project](https://github.com/ethomson/github4life))
 
 [![GitHub Game of Life](https://github-life.herokuapp.com/ruthrootz.gif?z=6)](https://github-life.herokuapp.com/ruthrootz)
 <br />

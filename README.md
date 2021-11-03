@@ -18,7 +18,7 @@
 
 <br />
 
-### my github contributions as a Game of Life (forked from [this guy's awesome project](https://github.com/ethomson/github4life))
+### my GitHub contributions as a Game of Life (forked from [this guy's awesome project](https://github.com/ethomson/github4life))
 
 [![GitHub Game of Life](https://github-life.herokuapp.com/ruthrootz.gif?z=6)](https://github-life.herokuapp.com/ruthrootz)
 <br />

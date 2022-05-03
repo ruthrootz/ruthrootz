@@ -12,7 +12,7 @@
 
 💡 Ask me about [VueJS](https://vuejs.org/) + [TypeScript](https://www.typescriptlang.org/), [Bootstrap](https://getbootstrap.com/) and [.NET](https://dotnet.microsoft.com/).
 
-📈 I'm currently learning how to work with [AWS](https://aws.amazon.com/certification/certified-cloud-practitioner/) to build serverless APIs.
+📈 I'm currently learning how to work with [AWS](https://aws.amazon.com/?nc2=h_lg) to build serverless APIs.
 
 <br />
 

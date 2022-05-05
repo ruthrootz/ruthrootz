@@ -10,7 +10,7 @@
 
 🎴 I've recently started playing [Magic the Gathering](https://magic.wizards.com/en).
 
-💡 Ask me about [C# .NET Core](https://dotnet.microsoft.com/), [VueJS](https://vuejs.org/), [TypeScript](https://www.typescriptlang.org/), [Bootstrap](https://getbootstrap.com/) and [AWS]().
+💡 Ask me about [C# .NET Core](https://dotnet.microsoft.com/), [VueJS](https://vuejs.org/), [TypeScript](https://www.typescriptlang.org/), [Bootstrap](https://getbootstrap.com/) and [AWS](https://aws.amazon.com/).
 
 📈 I'm currently learning how to work with [AWS](https://aws.amazon.com/?nc2=h_lg) to build serverless APIs.
 

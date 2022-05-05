@@ -12,7 +12,7 @@
 
 💡 Ask me about [C# .NET Core](https://dotnet.microsoft.com/), [VueJS](https://vuejs.org/) and [TypeScript](https://www.typescriptlang.org/).
 
-📈 I'm currently learning how to work with [AWS](https://aws.amazon.com/?nc2=h_lg) to build serverless APIs.
+📈 I'm currently working at [Rhyme](https://www.getrhyme.com/) to speed up the prior authorization process!
 
 <br />
 

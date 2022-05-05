@@ -10,7 +10,7 @@
 
 🎴 I've recently started playing [Magic the Gathering](https://magic.wizards.com/en).
 
-💡 Ask me about [C# .NET Core](https://dotnet.microsoft.com/), [VueJS](https://vuejs.org/) and [TypeScript](https://www.typescriptlang.org/).
+💡 Ask me about [.NET Core](https://dotnet.microsoft.com/), [VueJS](https://vuejs.org/) and [TypeScript](https://www.typescriptlang.org/).
 
 📈 I'm currently working at [Rhyme](https://www.getrhyme.com/) as a software engineer on a mission to speed up the prior authorization process! We use AWS, .NET Core, TypeScript, Vue and Terraform.
 

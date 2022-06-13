@@ -15,8 +15,3 @@
 📈 I'm currently working at [Rhyme](https://www.getrhyme.com/) as a software engineer on a mission to speed up the prior authorization process! We use AWS, .NET Core, TypeScript, Vue and Terraform.
 
 <br />
-
-### my GitHub contributions as a Game of Life (forked from [this guy's awesome project](https://github.com/ethomson/github4life))
-
-[![GitHub Game of Life](https://github-life.herokuapp.com/ruthrootz.gif?z=6)](https://github-life.herokuapp.com/ruthrootz)
-<br />

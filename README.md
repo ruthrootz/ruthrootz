@@ -6,7 +6,7 @@
 
 ❤ I love [reading](https://www.goodreads.com/user/show/72249220-ruth) and [running](https://www.strava.com/athletes/roldja).
 
-🐶 I have a pomsky named [Lyra](https://i.redd.it/rr1rc68jd8971.jpg).
+🐶 I have a pomsky named [Lyra](https://i.redd.it/cjx69yir8rb91.jpg).
 
 🎴 I've recently started playing [Magic the Gathering](https://magic.wizards.com/en).
 

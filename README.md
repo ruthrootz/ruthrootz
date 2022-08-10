@@ -4,6 +4,8 @@
 
 <br />
 
+📈 I'm a full-stack engineer with experience in AWS, Azure, Vue.js, Node.js, and .NET Core. I'm currently a software engineer at [Rhyme](https://www.getrhyme.com/), on a mission to completely automate the prior authorization process.
+
 ❤ I love [reading](https://www.goodreads.com/user/show/72249220-ruth) and [running](https://www.strava.com/athletes/roldja).
 
 🐶 I have a pomsky named [Lyra](https://i.redd.it/cjx69yir8rb91.jpg).
@@ -11,7 +13,5 @@
 🎴 I've recently started playing [Magic the Gathering](https://magic.wizards.com/en).
 
 💡 Ask me about [.NET Core](https://dotnet.microsoft.com/), [VueJS](https://vuejs.org/) and [TypeScript](https://www.typescriptlang.org/).
-
-📈 I'm currently working at [Rhyme](https://www.getrhyme.com/) as a software engineer on a mission to completely automate the prior authorization process. We use AWS, .NET Core, TypeScript, Vue.js and Terraform.
 
 <br />

@@ -4,7 +4,7 @@
 
 <br />
 
-📈 I'm a full-stack engineer with experience in AWS, Azure, Vue.js, Node.js, and .NET Core. I'm currently a software engineer at [Rhyme](https://www.getrhyme.com/), on a mission to completely automate the prior authorization process.
+📈 I'm a full-stack web dev with experience in **AWS**, **Azure**, **.NET Core**, **Node.js**, and **Vue.js**. I'm currently a software engineer at [Rhyme](https://www.getrhyme.com/), on a mission to completely automate the prior authorization process.
 
 ❤ I love [reading](https://www.goodreads.com/user/show/72249220-ruth) and [running](https://www.strava.com/athletes/roldja).
 

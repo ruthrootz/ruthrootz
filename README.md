@@ -10,8 +10,8 @@
 
 🐶 I have a pomsky named [Lyra](https://i.redd.it/cjx69yir8rb91.jpg).
 
-🎴 I've recently started playing [Magic the Gathering](https://magic.wizards.com/en).
-
 💡 Ask me about [.NET Core](https://dotnet.microsoft.com/), [VueJS](https://vuejs.org/) and [TypeScript](https://www.typescriptlang.org/).
+
+🎴 I've recently started playing [Magic the Gathering](https://magic.wizards.com/en).
 
 <br />

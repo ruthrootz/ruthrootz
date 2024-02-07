@@ -6,7 +6,7 @@
 
 📈 I'm a full-stack software engineer with experience in **AWS**, **Azure**, **.NET Core**, **Node.js**, and **Vue.js**. I work at [Rhyme](https://www.getrhyme.com/), where we're on a mission to completely automate the prior authorization process.
 
-❤ I love [reading](https://www.goodreads.com/user/show/72249220-ruth) and [running](https://www.strava.com/athletes/roldja)/[lifting](https://www.hevy.com/user/ruthrootz).
+❤ I love [reading](https://www.goodreads.com/user/show/72249220-ruth) and [running/hiking](https://www.strava.com/athletes/roldja).
 
 🐶 I have a pomsky named [Lyra](https://i.redd.it/cjx69yir8rb91.jpg).
 
